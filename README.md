@@ -1,16 +1,31 @@
-## Hi there 👋
+name: Generate Contribution Snake
 
-<!--
-**PremSawant101/PremSawant101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+on:
+schedule:
+- cron: "0 0 * * *"
+workflow_dispatch:
 
-Here are some ideas to get you started:
+permissions:
+contents: write
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+jobs:
+generate:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Generate snake
+    uses: Platane/snk@v3
+    with:
+      github_user_name: ${{ github.repository_owner }}
+      outputs: |
+        dist/github-contribution-grid-snake.svg
+
+  - name: Publish to output branch
+    uses: crazy-max/ghaction-github-pages@v4
+    with:
+      build_dir: dist
+    env:
+      GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+      BUILD_DIR: dist
+```
