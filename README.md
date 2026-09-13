@@ -32,7 +32,7 @@
 
 ## `whoami`
 
-```text
+<pre>
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
 │  PREM SAWANT                                                 │
@@ -42,10 +42,12 @@
 │                                                              │
 │  → Building responsive web applications                      │
 │  → Developing e-commerce experiences                         │
-│  → Creating admin dashboards & REST APIs                    │
-│  → Exploring modern web technologies                        │
+│  → Creating admin dashboards & REST APIs                     │
+│  → Exploring modern web technologies                         │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
+</pre>
+
 I'm a **Full Stack Developer** focused on building responsive and user-friendly web applications.
 
 I enjoy working across both frontend and backend — from creating clean interfaces and reusable components to developing APIs, authentication systems, database integrations, e-commerce features and admin panels.
@@ -243,7 +245,7 @@ A modern e-commerce website built using React with reusable components.
 
 # `currently`
 
-```text
+<pre>
 ╭──────────────────┬─────────────────────────────────────────╮
 │ FOCUS            │ Full Stack Development                  │
 ├──────────────────┼─────────────────────────────────────────┤
@@ -253,18 +255,23 @@ A modern e-commerce website built using React with reusable components.
 ├──────────────────┼─────────────────────────────────────────┤
 │ EXPLORING        │ Modern UI/UX & Development Practices    │
 ├──────────────────┼─────────────────────────────────────────┤
-│ LOCATION         │ Ahmedabad, India                         │
+│ LOCATION         │ Ahmedabad, India                        │
 ╰──────────────────┴─────────────────────────────────────────╯
-education
-🎓 B.Sc. Computer Science
+</pre>
 
-Department of Computer Science, Gujarat University
+---
+
+# `education`
+
+### 🎓 B.Sc. Computer Science
+
+**Department of Computer Science, Gujarat University**
 
 Ahmedabad · July 2023 — June 2026
 
-💻 Full Stack Development
+### 💻 Full Stack Development
 
-Red & White Skill Education
+**Red & White Skill Education**
 
 Ahmedabad · May 2024 — July 2026
 
@@ -272,18 +279,21 @@ Comprehensive training in frontend and backend web development, including the ME
 
 Hands-on work with:
 
-HTML CSS JavaScript React.js Next.js Node.js MongoDB REST APIs
+`HTML` `CSS` `JavaScript` `React.js` `Next.js` `Node.js` `MongoDB` `REST APIs`
 
-📜 CCC — Course on Computer Concepts
+### 📜 CCC — Course on Computer Concepts
 
-VCEC Institute
+**VCEC Institute**
 
 Ahmedabad · April 2023 — June 2023
 
-experience
-Full Stack Development — Internship Project
+---
 
-MedTech Ayurvedic E-Commerce Platform
+# `experience`
+
+### Full Stack Development — Internship Project
+
+**MedTech Ayurvedic E-Commerce Platform**
 
 January 2026 — March 2026
 
@@ -291,61 +301,83 @@ Developed a complete Ayurvedic e-commerce platform with responsive frontend inte
 
 The project was deployed on Vercel and GitHub was used for version control and collaboration.
 
-skills
-Technical Skills
-Frontend
-→ HTML5
-→ CSS3
-→ Bootstrap
-→ Tailwind CSS
-→ JavaScript (ES6+)
-→ jQuery
-→ React.js
+---
 
-Backend
-→ Next.js
-→ Node.js
+# `skills`
 
-Database
-→ MongoDB
-→ MySQL
+### Technical Skills
 
-Tools & Others
-→ Git
-→ GitHub
-→ REST API Integration
-→ Admin Panel Development
-→ VS Code
-Soft Skills
+**Frontend**
+
+`HTML5` · `CSS3` · `Bootstrap` · `Tailwind CSS` · `JavaScript (ES6+)` · `jQuery` · `React.js`
+
+**Backend**
+
+`Next.js` · `Node.js`
+
+**Database**
+
+`MongoDB` · `MySQL`
+
+**Tools & Others**
+
+`Git` · `GitHub` · `REST API Integration` · `Admin Panel Development` · `VS Code`
+
+### Soft Skills
 
 Teamwork · Problem Solving · Time Management · Adaptability · Communication
 
-languages
+---
+
+# `languages`
+
 <div align="center">
 
-🇬🇧 English ·
-🇮🇳 Hindi ·
-🇮🇳 Gujarati ·
-🇮🇳 Marathi
+🇬🇧 **English** ·
+🇮🇳 **Hindi** ·
+🇮🇳 **Gujarati** ·
+🇮🇳 **Marathi**
 
 </div>
-beyond_code
-→ Learning new technologies
-→ Web design & development
-→ Exploring modern UI/UX
-→ Building practical projects
-→ Improving development skills
+
+---
+
+# `beyond_code`
+
+- → Learning new technologies
+- → Web design & development
+- → Exploring modern UI/UX
+- → Building practical projects
+- → Improving development skills
+
+---
+
 <div align="center">
-Let's build something.
+
+# Let's build something.
 
 I'm always open to learning, building and connecting with other developers.
 
-<br> <a href="https://github.com/PremSawant101"> <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/prem-sawant-58b762344/"> <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/prem_sawant_30/"> <img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+<br>
+
+<a href="https://github.com/PremSawant101">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/prem-sawant-58b762344/">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/prem_sawant_30/">
+<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 <br><br>
 
-Code • Learn • Build • Repeat
+**Code • Learn • Build • Repeat**
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2A1B10,100:0D0D0D" width="100%"/> </div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2A1B10,100:0D0D0D" width="100%"/>
+
+</div>
