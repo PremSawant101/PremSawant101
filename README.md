@@ -1,28 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=PREM%20SAWANT&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=62&descSize=18&animation=fadeIn&color=0:090909,100:24150D" width="100%"/>
+# PREM.SAWANT
+
+`FULL STACK DEVELOPER` · `WEB BUILDER` · `PROBLEM SOLVER`
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=FF9F43&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Web+Applications;Creating+E-Commerce+Experiences;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=1000&color=FF9F43&center=true&vCenter=true&width=700&lines=I+build+things+for+the+web.;Frontend+%2B+Backend+%2B+Database.;Turning+ideas+into+working+products.;Always+learning.+Always+building." />
 
 <br><br>
 
-<a href="https://github.com/PremSawant101">
-<img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/prem-sawant-58b762344/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/prem_sawant_30/">
-<img src="https://img.shields.io/badge/INSTAGRAM-0D0D0D?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GITHUB-0A0A0A?style=flat-square&logo=github&logoColor=white)](https://github.com/PremSawant101)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-sawant-58b762344/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0A0A0A?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prem_sawant_30/)
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=PremSawant101&label=PROFILE%20VIEWS&color=FF9F43&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=PremSawant101&label=VISITORS&color=FF9F43&style=flat-square"/>
 
 </div>
 
@@ -30,37 +24,41 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="70%" valign="top">
 
-# 👋 Hey, I'm Prem
+## `/about`
 
-### `Full Stack Developer`
+I’m **Prem Sawant**, a Full Stack Developer based in Ahmedabad, India.
 
-I'm a developer who enjoys turning ideas into **functional, responsive and user-friendly web applications.**
+I like building web applications where the frontend, backend and database work together as one system.
 
-I work across the frontend and backend — building interfaces, APIs, authentication systems, database integrations, e-commerce workflows and admin dashboards.
+My focus is simple:
 
-Currently focused on becoming a stronger **Full Stack Developer** by continuously learning, experimenting and building practical projects.
+> **Understand → Build → Test → Improve**
+
+I enjoy working on responsive interfaces, e-commerce systems, APIs, authentication, databases and admin dashboards.
 
 </td>
 
-<td width="40%" valign="top">
+<td width="30%" valign="top">
 
-<pre>
-┌─────────────────────────────┐
-│        SYSTEM.INFO          │
-├─────────────────────────────┤
-│                             │
-│  NAME       Prem Sawant     │
-│  ROLE       Developer       │
-│  LOCATION   Ahmedabad, IN   │
-│                             │
-│  STATUS     Learning        │
-│             Building        │
-│             Improving       │
-│                             │
-└─────────────────────────────┘
-</pre>
+### `STATUS`
+
+```text
+● AVAILABLE
+
+role
+└─ Full Stack Developer
+
+focus
+└─ Web Development
+
+location
+└─ Ahmedabad, IN
+
+learning
+└─ Modern Web Tech
+```
 
 </td>
 </tr>
@@ -68,393 +66,331 @@ Currently focused on becoming a stronger **Full Stack Developer** by continuousl
 
 ---
 
-# `01` · TECH STACK
+## `/stack`
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### Frontend
+### FRONTEND
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,jquery" />
 
-<br><br>
+</td>
 
-### Backend & Database
+<td width="33%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,mongodb,mysql" />
+### BACKEND
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs" />
 
-### Tools
+</td>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<td width="33%" valign="top">
 
-</div>
+### DATA
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <div align="center">
 
-`REST APIs` · `JWT Authentication` · `Admin Panels` · `Responsive Design`
+`Git` · `GitHub` · `VS Code` · `REST APIs` · `JWT` · `Admin Panels`
 
 </div>
 
 ---
 
-# `02` · WHAT I BUILD
+# `/build-log`
 
-<table>
-<tr>
+### `01` — MedTech Ayurvedic E-Commerce Platform
 
-<td width="50%" valign="top">
+**January 2026 → March 2026**
 
-### 🌐 Web Applications
+> `FULL STACK / INTERNSHIP PROJECT`
 
-Building responsive and interactive web experiences with modern frontend technologies.
+A complete Ayurvedic e-commerce platform built from scratch.
 
-</td>
+| Layer | Implementation |
+|---|---|
+| Frontend | HTML · CSS · JavaScript · Next.js |
+| Backend | Next.js APIs |
+| Database | MongoDB |
+| Auth | JWT |
+| Deployment | Vercel |
 
-<td width="50%" valign="top">
+**What I built**
 
-### 🛒 E-Commerce
-
-Product pages, carts, dynamic interfaces and complete shopping workflows.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚙️ Backend Systems
-
-REST APIs, authentication, database integration and application logic.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧩 Admin Dashboards
-
-Product, blog, review and application-data management systems.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `03` · FEATURED PROJECTS
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🩺 MedTech Ayurvedic
-
-**Full Stack Internship Project**
-
-`Next.js` `MongoDB` `JWT`
-
-A complete Ayurvedic e-commerce platform developed from scratch.
-
-**Built**
-
-- Authentication system
 - Product management
 - Dynamic product pages
 - Shopping cart
 - Order handling
+- JWT authentication
 - Blog management
 - Customer reviews
 - Admin dashboard
 - Backend APIs
-- Vercel deployment
+- Image asset structure
 
-</td>
+---
 
-<td width="50%" valign="top">
+### `02` — Bear House E-Commerce Clone
 
-## 🛍️ Souled Store Clone
+**2025**
 
-**E-Commerce Project · 2024**
+> `REACT PROJECT`
 
-`HTML` `CSS` `JavaScript`
-
-A responsive e-commerce clone focused on product discovery and shopping UI.
-
-**Built**
-
-- Product listings
-- Dynamic product cards
-- Image carousels
-- Hover interactions
-- Responsive layouts
-- Mobile optimization
-- Cross-browser compatibility
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 👕 Bear House Clone
-
-**React Project · 2025**
+A React-based e-commerce experience built around reusable components and dynamic UI.
 
 `React.js` `React Router`
 
-A modern e-commerce interface built with reusable React components.
+**Highlights**
 
-**Built**
-
-- Reusable components
-- Product cards
-- Navigation
-- Shopping cart
-- React Router
-- Dynamic UI
-- State-driven interactions
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🚀 More Coming
-
-I'm continuously working on new projects and improving existing ones.
-
-```text
-Idea
-  ↓
-Design
-  ↓
-Code
-  ↓
-Test
-  ↓
-Deploy
-  ↓
-Improve
-```
-
-</td>
-
-</tr>
-
-</table>
+`Reusable Components` · `Product Cards` · `Navigation` · `Cart` · `Dynamic UI` · `State Management`
 
 ---
 
-# `04` · GITHUB ACTIVITY
+### `03` — Souled Store Clone
 
-<div align="center">
+**2024**
 
-<img src="https://github-readme-stats.vercel.app/api?username=PremSawant101&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF9F43&icon_color=FF9F43&text_color=F2F2F2&rank_icon=github" height="180"/>
+> `FRONTEND PROJECT`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremSawant101&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF9F43&text_color=F2F2F2" height="180"/>
+A responsive e-commerce clone focused on product discovery and shopping interactions.
 
-</div>
+`HTML` `CSS` `JavaScript`
 
-<br>
+**Highlights**
 
-<div align="center">
+`Product Listings` · `Dynamic Cards` · `Carousels` · `Hover Effects` · `Responsive Design`
 
-<img src="https://streak-stats.demolab.com?user=PremSawant101&hide_border=true&background=0D0D0D&ring=FF9F43&fire=FF9F43&currStreakLabel=FF9F43&sideLabels=F2F2F2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777"/>
+---
+
+<div align="right">
+
+**03 PROJECTS · MORE IN PROGRESS →**
 
 </div>
 
 ---
 
-# `05` · CONTRIBUTIONS
+## `/workflow`
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PremSawant101&bg_color=0D0D0D&color=F2F2F2&line=FF9F43&point=FFFFFF&area=true&hide_border=true&custom_title=Prem's%20Contribution%20Graph" width="100%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PremSawant101/PremSawant101/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
-
-</div>
-
----
-
-# `06` · CURRENTLY
-
-<div align="center">
-
-<pre>
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  FOCUS       → Full Stack Development                     │
-│  BUILDING    → Web Apps & E-Commerce                      │
-│  LEARNING    → Modern Web Technologies                    │
-│  EXPLORING   → UI/UX & Development Practices              │
-│  LOCATION    → Ahmedabad, India                            │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-</pre>
-
-</div>
-
----
-
-# `07` · EXPERIENCE
-
-### 💼 Full Stack Development — Internship Project
-
-**MedTech Ayurvedic E-Commerce Platform**
-
-`January 2026 — March 2026`
-
-Developed a complete Ayurvedic e-commerce platform with responsive frontend interfaces, backend APIs, MongoDB integration, JWT authentication, product management, blog management, customer reviews, cart functionality, order handling and an admin dashboard.
-
-The project was deployed on Vercel with GitHub used for version control and collaboration.
-
----
-
-# `08` · EDUCATION
 
 <table>
+<tr>
+<td align="center">
 
+### `01`
+
+**THINK**
+
+Understand the problem
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### `02`
+
+**DESIGN**
+
+Plan the solution
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### `03`
+
+**BUILD**
+
+Write the code
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### `04`
+
+**SHIP**
+
+Test & improve
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# `/github`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PremSawant101&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF9F43&icon_color=FF9F43&text_color=E8E8E8&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremSawant101&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF9F43&text_color=E8E8E8" height="165"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=PremSawant101&hide_border=true&background=0A0A0A&ring=FF9F43&fire=FF9F43&currStreakLabel=FF9F43&sideLabels=E8E8E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777"/>
+
+</div>
+
+---
+
+## `/activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PremSawant101&bg_color=0A0A0A&color=E8E8E8&line=FF9F43&point=FFFFFF&area=true&hide_border=true&custom_title=BUILD%20ACTIVITY" width="100%"/>
+
+</div>
+
+---
+
+## `/contributions`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PremSawant101/PremSawant101/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+
+</div>
+
+---
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 B.Sc. Computer Science
+## `/education`
+
+### B.Sc. Computer Science
 
 **Gujarat University**
 
 Ahmedabad
 
-`July 2023 — June 2026`
+`2023 → 2026`
 
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 Full Stack Development
+### Full Stack Development
 
 **Red & White Skill Education**
 
-Ahmedabad
-
-`May 2024 — July 2026`
+`2024 → 2026`
 
 MERN Stack · Frontend · Backend · REST APIs
 
-</td>
-</tr>
+### CCC
 
-<tr>
-<td width="50%" valign="top">
+**VCEC Institute**
 
-### 📜 CCC
-
-**Course on Computer Concepts**
-
-VCEC Institute
-
-`April 2023 — June 2023`
+`2023`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📚 Continuous Learning
+## `/experience`
 
-Exploring new technologies, modern web development practices and better ways to build software.
+### Full Stack Development
+
+**Internship Project**
+
+`January 2026 → March 2026`
+
+**MedTech Ayurvedic E-Commerce Platform**
+
+Worked across frontend, backend and database layers while building e-commerce functionality, authentication, APIs and an admin dashboard.
+
+`Next.js` `MongoDB` `JWT` `REST APIs`
 
 </td>
 </tr>
-
 </table>
 
 ---
 
-# `09` · SKILLS
-
-### Technical
-
-`HTML5` · `CSS3` · `JavaScript` · `React.js` · `Next.js` · `Node.js`
-
-`MongoDB` · `MySQL` · `Tailwind CSS` · `Bootstrap` · `jQuery`
-
-`Git` · `GitHub` · `REST APIs` · `JWT` · `VS Code`
-
-### Soft Skills
-
-`Teamwork` · `Problem Solving` · `Time Management` · `Adaptability` · `Communication`
-
----
-
-# `10` · LANGUAGES
+# `/toolbox`
 
 <div align="center">
 
-🇬🇧 **English** &nbsp;&nbsp;·&nbsp;&nbsp;
-🇮🇳 **Hindi** &nbsp;&nbsp;·&nbsp;&nbsp;
-🇮🇳 **Gujarati** &nbsp;&nbsp;·&nbsp;&nbsp;
-🇮🇳 **Marathi**
+### LANGUAGES & FRAMEWORKS
+
+`HTML5` `CSS3` `JavaScript ES6+` `React.js` `Next.js` `Node.js`
+
+### DATABASE
+
+`MongoDB` `MySQL`
+
+### UI
+
+`Tailwind CSS` `Bootstrap` `jQuery`
+
+### DEVELOPMENT
+
+`Git` `GitHub` `REST API` `JWT` `VS Code` `Admin Panels`
 
 </div>
 
 ---
 
-# `11` · BEYOND CODE
+## `/outside-the-code`
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">📚<br><b>Learn</b><br>New Technologies</td>
-<td align="center">🎨<br><b>Design</b><br>Modern UI/UX</td>
-<td align="center">💻<br><b>Build</b><br>Practical Projects</td>
-<td align="center">🚀<br><b>Improve</b><br>Development Skills</td>
-</tr>
-</table>
-
-</div>
+```text
+LEARNING       → new technologies
+DESIGNING      → modern UI / UX
+BUILDING       → practical projects
+EXPERIMENTING  → better development approaches
+IMPROVING      → one project at a time
+```
 
 ---
 
 <div align="center">
 
-## Let's build something. 🚀
+## `connect()`
 
-I'm always open to **learning, building and connecting** with other developers.
+**Got an idea? Let's build it.**
 
 <br>
 
 <a href="https://github.com/PremSawant101">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/prem-sawant-58b762344/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.instagram.com/prem_sawant_30/">
-<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br><br>
 
-`Code` · `Learn` · `Build` · `Repeat`
+`PremSawant101`
+
+<br>
+
+<sub>BUILD · LEARN · REPEAT</sub>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:24150D,100:090909" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:24150D,100:090909" width="100%"/>
 
 </div>
